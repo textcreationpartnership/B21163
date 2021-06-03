@@ -1,0 +1,1316 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cato major, of old age a poem / by the Honourable Sir John Denham ...</title>
+            <title>Cato maior de senectute. English</title>
+            <author>Cicero, Marcus Tullius.</author>
+         </titleStmt>
+         <extent>Approx. 58 KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21163</idno><idno type="EEBO-CITATION">11988486</idno>
+  <idno type="VID">199448</idno>
+  <idno type="EEBO-PROQUEST">2240947836</idno>
+  
+            <idno type="STC">Wing D990</idno>
+            <idno type="OCLC">11988486</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21163)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 199448)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 560:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Cato major, of old age a poem / by the Honourable Sir John Denham ...</title>
+                  <title>Cato maior de senectute. English</title>
+                  <author>Cicero, Marcus Tullius.</author>
+                  <author>Denham, John, Sir, 1615-1669.</author>
+               </titleStmt>
+               <extent>[6], 52 [i.e. 56] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Herringman ...,</publisher>
+                  <pubPlace>In the Savoy [London] :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A paraphrase in verse of Cicero's De senectute.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Old age --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:199448:1"/>
+            <pb facs="tcp:199448:1"/>
+            <p>
+               <hi>CATO MAJOR</hi> OF OLD AGE. A Poem.</p>
+            <p>By the Honourable Sir <hi>JOHN DENHAM</hi> Knight of the <hi>BATH.</hi>
+            </p>
+            <p>In the <hi>SAVOY,</hi> Printed for <hi>Henry Herringman</hi> at the Sign of the <hi>Anchor</hi> in the Lower-Walk of the <hi>New-Exchange.</hi> 1669.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:199448:2"/>
+            <pb facs="tcp:199448:2"/>
+            <head>TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Can neither call this Piece <hi>Tully</hi>'s nor my own, being much alte<g ref="char:EOLhyphen"/>red from the Original, not on<g ref="char:EOLhyphen"/>ly by the change of the Style, but by addition and substra<g ref="char:EOLhyphen"/>ction. I believe you will be better pleas'd, to receive it, as I did, at the first sight; for to me <hi>Cicero</hi> did not so much appear to write, as <hi>Cato</hi> to speak; and to do right to my Au<g ref="char:EOLhyphen"/>thor, I believe no Character of any person was ever better drawn to the life than this. Therefore neither consider <hi>Cicero,</hi> nor Me, but <hi>Cato</hi> himself, who being then rais'd from the dead to speak the language of that Age and Place, neither the distance of place or
+<pb facs="tcp:199448:3"/>time makes it less possible to raise him now to speak ours.</p>
+            <p>Though I dare not compare my Copy with the Original, yet you will find it men<g ref="char:EOLhyphen"/>tion'd here, how much fruits are improv'd by Grafting; and here, by grafting Verse upon Prose, some of these severer Argu<g ref="char:EOLhyphen"/>ments may receive a more mild and plea<g ref="char:EOLhyphen"/>sant taste.</p>
+            <p>
+               <hi>Cato</hi> sayes (in another place) of himself, that he learn'd to speak Greek between the seventieth and eightieth year of his Age, be<g ref="char:EOLhyphen"/>ginning that so late, he may not yet be too old to learn English, being now but between his seventeenth and eighteenth hundred year. For these reasons I shall leave to this Piece no other name than what the Author gave it of</p>
+            <closer>
+               <signed>CATO MAJOR.</signed>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:199448:3"/>
+            <head>THE PREFACE.</head>
+            <p>THat Learned Critick, the younger <hi>Scaliger,</hi> comparing the two great Orators, sayes, that nothing can be taken from <hi>Demosthenes,</hi> nor added to <hi>Tully;</hi> and if there be any fault in the last, it is the Resumption, or dwelling too long upon his arguments: for which reason having intended to translate this Piece into Prose, (where Translation ought to be strict) finding the matter very proper for Verse, I took the li<g ref="char:EOLhyphen"/>berty, to leave out what was only necessary to that Age, and Place, and to take, or add what was proper to this present Age, and occasion; by laying his sense closer, and in fewer words, ac<g ref="char:EOLhyphen"/>cording to the style and ear of these times. The three first parts I dedicate to my old friends, to take off those melancholy reflections, which the sense of Age, Infirmity, and Death may give
+<pb facs="tcp:199448:4"/>them. The last part I think necessary for the Conviction of those many, who believe not, or at least mind not the immortality of the Soul, of which the Scripture speaks only positively, as a Lawgiver, with an <hi>Ipse dixit;</hi> but it may be, they neither believe that (from which they ei<g ref="char:EOLhyphen"/>ther make doubts, or sport,) nor those, whose business it is to interpret it, supposing they do it only for their own ends: But if a Heathen Philosopher bring such arguments from reason, nature, and Second Causes, which none of our Atheistical Sophisters can confute, if they may stand convinced, that there is an Immortality of the Soul, I hope they will so weigh the conse<g ref="char:EOLhyphen"/>quences, as neither to talk, nor live as if there were no such thing.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:199448:4"/>
+            <head>Of Old-Age.</head>
+            <head type="sub">Cato, Scipio, Laelius.</head>
+            <stage>
+               <hi>Scipio</hi> to <hi>Cato.</hi>
+            </stage>
+            <l>THough all the Actions of your</l>
+            <l>Life are crown'd</l>
+            <l>With Wisdom, nothing makes</l>
+            <l>them more Renown'd,</l>
+            <l>Then that those years, which others think extreme,</l>
+            <l>Nor to your self, nor us uneasie seem,</l>
+            <l>Under which weight, most like th'old Giant's groan,</l>
+            <l>When <hi>Aetna</hi> on their backs by <hi>Jove</hi> was thrown.</l>
+            <sp>
+               <speaker>Cat.</speaker>
+               <l>What you urge <hi>(Scipio)</hi> from right reason flows,</l>
+               <l>All parts of Age seem burthensome to those,</l>
+               <pb n="2" facs="tcp:199448:5"/>
+               <l> Who Virtue's, and true Wisdom's happiness</l>
+               <l>Cannot discern, but they who those possess</l>
+               <l>In what's impos'd by Nature, find no grief,</l>
+               <l>Of which our Age is (next our Death) the chief,</l>
+               <l>Which though all equally desire to'obtain,</l>
+               <l>Yet <hi>when they have obtain'd it,</hi> they complain;</l>
+               <l>Such our inconstancies, and follies are,</l>
+               <l>We say it steals upon us unaware:</l>
+               <l>Our want of reas'ning these false measures makes,</l>
+               <l>Youth runs to Age, as Childhood Youth o'retakes;</l>
+               <l>How much more grievous would our lives appear</l>
+               <l>To reach th'eight hundreth, then the eightieth year?</l>
+               <l>Of what, in that long space of time hath past,</l>
+               <l>To foolish Age will no remembrance last,</l>
+               <l>My Ages conduct when you seem to'admire,</l>
+               <l>(Which that it may deserve, I much desire)</l>
+               <l>'Tis my first rule, on Nature, as my Guide</l>
+               <l>Appointed by the Gods, I have rely'de,</l>
+               <pb n="3" facs="tcp:199448:5"/>
+               <l> And Nature, (which all Acts of life designes)</l>
+               <l>Not like ill Poets, in the last declines;</l>
+               <l>But some one part must be the last of all,</l>
+               <l>Which like ripe fruits, must either rot, or fall,</l>
+               <l>And this from Nature must be gently born,</l>
+               <l>Else her (as Giants did the Gods) we scorn.</l>
+            </sp>
+            <sp>
+               <speaker>Lal.</speaker>
+               <l>But Sir, 'tis <hi>Scipio</hi>'s, and my desire,</l>
+               <l>Since to long life we gladly would aspire,</l>
+               <l>That from your grave Instructions we might hear,</l>
+               <l>How we, like you, might this great burthen bear.</l>
+            </sp>
+            <sp>
+               <speaker>Cat.</speaker>
+               <l>This I resolv'd before, but now shall do</l>
+               <l>With great delight, since 'tis requir'd by you.</l>
+            </sp>
+            <sp>
+               <speaker>Lael.</speaker>
+               <l>If to your self it will not tedious prove,</l>
+               <l>Nothing in us a greater joy can move,</l>
+               <l>That as old Travellers the young instruct,</l>
+               <l>Your long, our short experience may conduct.</l>
+            </sp>
+            <sp>
+               <speaker>Cat.</speaker>
+               <l>'Tis true, (as the old Proverb doth relate)</l>
+               <l>Equals with equals often congregate.</l>
+               <pb n="4" facs="tcp:199448:6"/>
+               <l>Two Consuls (who in years my equals were,)
+<note place="margin">Caius Salinat<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r.</note>
+               </l>
+               <l>When Senators, lamenting I did hear,
+<note place="margin">Spurius Albinus.</note>
+               </l>
+               <l>That Age from them had all their pleasures torn,</l>
+               <l>And them their former suppliants now scorn,</l>
+               <l>They, what is not to be accus'd, accuse,</l>
+               <l>Not others, but themselves their age abuse,</l>
+               <l>Else this might me concern, and all my friends,</l>
+               <l>Whose cheerful Age, with Honour, Youth attends,</l>
+               <l>Joy'd that from pleasure's slavery they are free,</l>
+               <l>And all respects due to their age they see,</l>
+               <l>In it's true colours, this complaint appears</l>
+               <l>The ill effect of Manners, not of years,</l>
+               <l>For on their life no grievous burthen lies,</l>
+               <l>Who are well-natur'd, temperate, and wise:</l>
+               <l>But an inhumane, and ill-temper'd mind</l>
+               <l>Not any easie part in life can find.</l>
+            </sp>
+            <sp>
+               <speaker>Lael.</speaker>
+               <l>This I believe, yet others may dispute,</l>
+               <l>Their age (as yours) can never bear such fruit,</l>
+               <pb n="5" facs="tcp:199448:6"/>
+               <l>Of Honour, Wealth, and Power, to make them sweet,</l>
+               <l>Not every one such happiness can meet.</l>
+            </sp>
+            <sp>
+               <speaker>Cat.</speaker>
+               <l>Some weight your argument (my <hi>Laelius</hi>) bears,</l>
+               <l>But not so much, as at first sight appears,</l>
+               <l>This answer by <hi>Themistocles</hi> was made,</l>
+               <l>(When a <hi>Seriphian</hi> thus did him upbraid,</l>
+               <l>You those great Honours to your Country owe,</l>
+               <l>Not to your self) had I at <hi>Seripho</hi>
+                  <note place="margin">An Isle to which con<g ref="char:EOLhyphen"/>demn'd men were banisht</note>
+               </l>
+               <l>Been born, such honour I had never seen,</l>
+               <l>Nor you, if an <hi>Athenian</hi> you had been:</l>
+               <l>So Age, cloath'd in undecent povertie,</l>
+               <l>To the most prudent cannot easie be,</l>
+               <l>But to a fool, the greater his estate,</l>
+               <l>The more uneasie is his Age's weight.</l>
+               <l>Age's chief arts, and arms, are to grow wise,</l>
+               <l>Virtue to know, and known to exercise,</l>
+               <l>All just returns to Age then Virtue makes,</l>
+               <l>Nor her in her extremity forsakes,</l>
+               <pb n="6" facs="tcp:199448:7"/>
+               <l>The sweetest Cordial we receive at last</l>
+               <l>Is conscience of our virtuous actions past.</l>
+               <l>I, (when a youth) with reverence did look</l>
+               <l>On <hi>Quintus Fabius,</hi> who <hi>Tarentum</hi> took,</l>
+               <l>Yet in his age such cheerfulness was seen,</l>
+               <l>As if his years and mine had equal been,</l>
+               <l>His Gravity was mixt with Gentleness,</l>
+               <l>Nor had his Age made his good humour less,</l>
+               <l>Then was he well in years (the same that he</l>
+               <l>Was Consul, that of my Nativity)</l>
+               <l>(A Stripling then) in his fourth Consulate</l>
+               <l>On him at <hi>Capua</hi> I in armes did wait,</l>
+               <l>I five years after at <hi>Tarentum</hi> wan</l>
+               <l>The Quaestorship, and then our love began,</l>
+               <l>And four years after, when I Praetor was</l>
+               <l>He Pleaded, and the
+<note n="*" place="margin">Against Bribes.</note>
+                  <hi>Cincian</hi> Law did pass.</l>
+               <l>With youthful diligence he us'd to ingage,</l>
+               <l>Yet with the temperate Arts of patient Age</l>
+               <pb n="7" facs="tcp:199448:7"/>
+               <l>He breaks fierce <hi>Hannibal</hi>'s insulting heats;</l>
+               <l>Of which exploit thus our friend <hi>Ennius</hi> treats,</l>
+               <l>He by delay restor'd the Common-wealth,</l>
+               <l>Nor preferr'd Rumour before publick Health.</l>
+            </sp>
+            <div type="argument">
+               <pb n="8" facs="tcp:199448:8"/>
+               <head>THE ARGUMENT.</head>
+               <lg>
+                  <l>
+                     <hi>When I reflect on Age, I find there are</hi>
+                  </l>
+                  <l>
+                     <hi>Four Causes, which its Misery declare.</hi>
+                  </l>
+                  <l>1. <hi>Because our Bodies Strength it much impairs;</hi>
+                  </l>
+                  <l>2. <hi>That it takes off our Minds from great Affairs:</hi>
+                  </l>
+                  <l>3. <hi>Next, That our Sense of Pleasures it deprives:</hi>
+                  </l>
+                  <l>4. <hi>Last, That approaching Death attends our Lives.</hi>
+                  </l>
+                  <l>
+                     <hi>Of all these several Causes I'le discourse,</hi>
+                  </l>
+                  <l>
+                     <hi>And then of each, in Order, weigh the force.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="1" type="part">
+               <head>THE FIRST PART.</head>
+               <lg>
+                  <l>1. THe Old from such affairs is only freed,</l>
+                  <l>Which vigourous youth, and strength of body need.</l>
+                  <l>But to more high affairs our age is lent,</l>
+                  <l>Most properly when heats of youth are spent.</l>
+                  <l>Did <hi>Fabius,</hi> and your Father <hi>Scipio</hi>
+                  </l>
+                  <l>(Whose Daughter my Son married) nothing do?</l>
+                  <pb n="9" facs="tcp:199448:8"/>
+                  <l>
+                     <hi>Fabricii, Coruncani, Curii;</hi>
+                  </l>
+                  <l>Whose courage, counsel, and authority,</l>
+                  <l>The Roman Common-wealth restor'd, did boast,</l>
+                  <l>Nor <hi>Appius,</hi> with whose strength his sight was lost,</l>
+                  <l>Who when the Senate was to Peace inclin'd</l>
+                  <l>With <hi>Pyrrhus,</hi> shew'd his reason was not blind.</l>
+                  <l>Whither's our Courage and our Wisdom come?</l>
+                  <l>When <hi>Rome</hi> it self conspires the fate of <hi>Rome.</hi>
+                  </l>
+                  <l>The rest with ancient gravity and skill</l>
+                  <l>He spake (for his Oration's extant still)</l>
+                  <l>'Tis seventeen years since he had Consul been</l>
+                  <l>The second time, and there were ten between;</l>
+                  <l>Therefore their Argument's of little force,</l>
+                  <l>Who Age from great Imployments would divorce.</l>
+                  <l>As in a Ship some climb the Shrouds, to'unfold</l>
+                  <l>The Sails, some sweep the Deck, some pump the Hold;</l>
+                  <l>Whil'st he that guides the Helm, imploys his skill,</l>
+                  <l>And gives the Law to them by sitting still.</l>
+                  <pb n="10" facs="tcp:199448:9"/>
+                  <l>Great actions less from Courage, strength, and speed,</l>
+                  <l>Then from wise Counsels and Commands proceed;</l>
+                  <l>Those Arts Age wants not, which to Age belong,</l>
+                  <l>Not heat, but cold experience makes us strong,</l>
+                  <l>A Consul, Tribune, General, I have been,</l>
+                  <l>All sorts of war I have past through, and seen</l>
+                  <l>And now grown old, I seem to'abandon it,</l>
+                  <l>Yet to the Senate I prescribe what's fit.</l>
+                  <l>I every day 'gainst <hi>Carthage</hi> war proclaim,</l>
+                  <l>(For <hi>Rome</hi>'s destruction hath been long her aim)</l>
+                  <l>Nor shall I cease till I her ruine see,</l>
+                  <l>Which Triumph may the Gods designe for thee;</l>
+                  <l>That <hi>Scipio</hi> may revenge his Grandsire's Ghost,</l>
+                  <l>VVhose life at <hi>Cannae</hi> with great Honour lost</l>
+                  <l>Is on Record, nor had he wearied been</l>
+                  <l>VVith Age, if he an hundred years had seen,</l>
+                  <l>He had not us'd Excursions, Spears, or Darts,</l>
+                  <l>But Counsel, Order, and such aged Arts,</l>
+                  <pb n="11" facs="tcp:199448:9"/>
+                  <l>Which, if our Ancestors had not retain'd,</l>
+                  <l>The <hi>Senate</hi>'s Name, our Council had not gain'd,</l>
+                  <l>The <hi>Spartans</hi> to their highest Magistrate,</l>
+                  <l>The Name of <hi>Elder</hi> did appropriate:</l>
+                  <l>Therefore his fame for ever shall remain,</l>
+                  <l>How gallantly <hi>Tarentum</hi> he did gain,</l>
+                  <l>With vigilant Conduct, when that sharp reply</l>
+                  <l>He gave to <hi>Salinator,</hi> I stood by,</l>
+                  <l>Who to the Castle fled, the Town being lost,</l>
+                  <l>Yet he to <hi>Maximus</hi> did vainly boast,</l>
+                  <l>'Twas by my means <hi>Tarentum</hi> you obtain'd;</l>
+                  <l>'Tis true, had you not lost, I had not gain'd;</l>
+                  <l>And as much Honour on his Gown did wait,</l>
+                  <l>As on his Arms, in his Fifth Consulate,</l>
+                  <l>When his Colleague <hi>Carvilius</hi> stept aside,</l>
+                  <l>The Tribune of the People would divide</l>
+                  <l>To them the <hi>Gallick,</hi> and the <hi>Picene</hi> Field,</l>
+                  <l>Against the Senate's will, he will not yield,</l>
+                  <pb n="12" facs="tcp:199448:10"/>
+                  <l>When being angry, boldly he declares</l>
+                  <l>Those things were acted under happy starres,</l>
+                  <l>From which the Commonwealth found good effects,</l>
+                  <l>But othewise, they came from bad Aspects.</l>
+                  <l>Many great things of <hi>Fabius</hi> I could tell,</l>
+                  <l>But his Son's death did all the rest excell;</l>
+                  <l>(His Gallant Son, though young, had Consul been)</l>
+                  <l>His Funeral Oration I have seen</l>
+                  <l>Often, and when on that I turn my eyes,</l>
+                  <l>I all the Old Philosophers dispise,</l>
+                  <l>Though he in all the Peoples eyes seem'd great,</l>
+                  <l>Yet greater he appear'd in his retreat;</l>
+                  <l>When feasting with his private friends at home,</l>
+                  <l>Such Counsel, such Discourse from him did come,</l>
+                  <l>Such Science in his Art of Augury,</l>
+                  <l>No Roman ever was more learn'd than he;</l>
+                  <l>Knowledge of all things present, and to come,</l>
+                  <l>Remembring all the Wars of ancient <hi>Rome,</hi>
+                  </l>
+                  <pb n="13" facs="tcp:199448:10"/>
+                  <l>Nor only these, but all the World's beside;</l>
+                  <l>Dying in extreme age, I prophesi'd</l>
+                  <l>That which is come to pass, and did discern</l>
+                  <l>From his Survivors I could nothing learn.</l>
+                  <l>This long discourse was but to let you see,</l>
+                  <l>That his long life could not uneasie be.</l>
+                  <l>Few like the <hi>Fabii</hi> or the <hi>Scipio</hi>'s are</l>
+                  <l>Takers of Cities, Conquerors in War,</l>
+                  <l>Yet others to like happy Age arrive,</l>
+                  <l>Who modest, quiet, and with vertue live:</l>
+                  <l>Thus <hi>Plato</hi> writing his Philosophy,</l>
+                  <l>With Honour after ninety years did die.</l>
+                  <l>The <hi>Athenian Story</hi> writ at ninety four</l>
+                  <l>By <hi>Isocrates,</hi> who yet liv'd five years more,</l>
+                  <l>His Master <hi>Grogias</hi> at the hundredth year</l>
+                  <l>And seventh, not his studies did forbear,</l>
+                  <l>And askt, why he no sooner left the Stage,</l>
+                  <l>Said, he saw nothing to accuse Old Age.</l>
+                  <pb n="14" facs="tcp:199448:11"/>
+                  <l>None but the foolish, who their lives abuse</l>
+                  <l>Age, of their own Mistakes and Crimes accuse,</l>
+                  <l>All Commonwealths (as by Record is seen)</l>
+                  <l>As by Age preserv'd, by Youth destroy'd have been,</l>
+                  <l>When the Tragedian <hi>Naevius</hi> did demand,</l>
+                  <l>Why did your Common-wealth no longer stand?</l>
+                  <l>'Twas answer'd, that their Senators were new,</l>
+                  <l>Foolish, and young, and such as nothing knew;</l>
+                  <l>Nature to Youth hot rashness doth dispence,</l>
+                  <l>But with cold prudence Age doth recompence;</l>
+                  <l>But Age ('tis said) will memory decay,</l>
+                  <l>So (if it be not exercis'd) it may;</l>
+                  <l>Or, if by Nature it be dull, and slow,</l>
+                  <l>
+                     <hi>Themistocles</hi> (when ag'd) the Names did know</l>
+                  <l>Of all th' <hi>Athenians,</hi> and none grow so old,</l>
+                  <l>Not to remember where they hid their Gold.</l>
+                  <l>From Age such Art of Memory we learn,</l>
+                  <l>To forget nothing, which is our concern.</l>
+                  <pb n="15" facs="tcp:199448:11"/>
+                  <l>Their interest no Priest, nor Sorcerer</l>
+                  <l>Forgets, nor Lawyer, nor Philosopher;</l>
+                  <l>No understanding, Memory can want,</l>
+                  <l>Where Wisdome studious industry doth plant.</l>
+                  <l>Nor does it only in the active live,</l>
+                  <l>But in the quiet and contemplative;</l>
+                  <l>When <hi>Sophocles</hi> (who Plays, when aged wrote)</l>
+                  <l>Was by his Sons before the Judges brought,</l>
+                  <l>Because be pay'd the Muses such respect,</l>
+                  <l>His Fortune, Wife, and Children to neglect,</l>
+                  <l>Almost condemn'd, he mov'd the Judged thus,</l>
+                  <l>Hear, but instead of me, my <hi>Oedipus,</hi>
+                  </l>
+                  <l>The Judges hearing with applause, at th' end,</l>
+                  <l>Freed him, and said no Fool such Lines had penn'd.</l>
+                  <l>What Poets, and what Orators can I</l>
+                  <l>Recount? What Princes in Philosophy</l>
+                  <l>Whose constant Studies with their Age did strive,</l>
+                  <l>Nor did they those, though those did them survive.</l>
+                  <pb n="16" facs="tcp:199448:12"/>
+                  <l>Old Husbandmen I at <hi>Sabinium</hi> know,</l>
+                  <l>Who for another year dig, plough, and sow.</l>
+                  <l>For never any man was yet so old,</l>
+                  <l>But hop'd his life one Winter more might hold.</l>
+                  <l>
+                     <hi>Caecilius</hi> vainly said, each day we spend</l>
+                  <l>Discovers something, which must needs offend,</l>
+                  <l>But sometimes Age may pleasant things behold,</l>
+                  <l>And nothing that offends: He should have told</l>
+                  <l>This not to Age, but Youth, who oftner see</l>
+                  <l>What not alone offends, but hurts, then wee:</l>
+                  <l>That, I in him, which he in Age condemn'd,</l>
+                  <l>That us it renders odious, and contemn'd.</l>
+                  <l>He knew not vertue, if he thought this, truth;</l>
+                  <l>For Youth delights in Age, and Age in Youth.</l>
+                  <l>What to the Old can greater pleasure be,</l>
+                  <l>Then hopeful, and ingenious Youth to see?</l>
+                  <l>When they with rev'rence follow where we lead,</l>
+                  <l>And in strait paths by our directions tread;</l>
+                  <pb n="17" facs="tcp:199448:12"/>
+                  <l>And even my conversation here I see,</l>
+                  <l>As well receiv'd by you, as yours by me.</l>
+                  <l>'Tis dis-ingenious to accuse our Age</l>
+                  <l>Of Idleness, who all our powr's ingage</l>
+                  <l>In the same Studies, the same Course to hold;</l>
+                  <l>Nor think our reason for new Arts too old.</l>
+                  <l>
+                     <hi>Solon</hi> the Sage his Progress never ceast,</l>
+                  <l>But still his Learning with his dayes increast;</l>
+                  <l>And I with the same greediness did seek</l>
+                  <l>As (water when I thirst) to swallow Greek,</l>
+                  <l>Which I did only learn, that I might know</l>
+                  <l>Those great Examples, which I follow now:</l>
+                  <l>And I have heard that <hi>Socrates</hi> the wise</l>
+                  <l>Learn'd on the Lute for his last exercise,</l>
+                  <l>Though many of the Antients did the same,</l>
+                  <l>To improve Knowledge was my only aime.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb n="18" facs="tcp:199448:13"/>
+               <head>THE SECOND PART.</head>
+               <lg>
+                  <l>NOw int' our second grievance I must break,</l>
+                  <l>
+                     <hi>That loss of strength makes nnderstanding weak.</hi>
+                  </l>
+                  <l>I grieve no more my youthful strength to want,</l>
+                  <l>Then young, that of a Bull, or Elephant;</l>
+                  <l>Then with that force content, which Nature gave,</l>
+                  <l>Nor am I now displeas'd with what I have.</l>
+                  <l>When the young Wrestlers at their sport grew warm,</l>
+                  <l>Old <hi>Milo</hi> wept, to see his naked arm;</l>
+                  <l>And cry'd, 'twas dead, Trifler thine heart, and head,</l>
+                  <l>And all that's in them (not thy arme) are dead;</l>
+                  <l>This folly every looker on derides,</l>
+                  <l>To glory only in thy armes and sides.</l>
+                  <l>Our gallant Ancestors let fall no tears,</l>
+                  <l>Their strength decreasing by increasing years;</l>
+                  <pb n="19" facs="tcp:199448:13"/>
+                  <l>But they advanc'd in Wisdom ev'ry hour,</l>
+                  <l>And made the Common-wealth advance in power.</l>
+                  <l>But Orators may grieve, for in their sides</l>
+                  <l>Rather than heads, their faculty abides;</l>
+                  <l>Yet I have heard old voices loud and clear,</l>
+                  <l>And still my own sometimes the Senate hear.</l>
+                  <l>When th' Old with smooth and gentle voices plead,</l>
+                  <l>They by the ear their well-pleas'd Audience lead:</l>
+                  <l>VVhich, if I had not strength enough to do,</l>
+                  <l>I could (my <hi>Laelius,</hi> and my <hi>Scipio</hi>)</l>
+                  <l>VVhat's to be done, or not be done, instruct,</l>
+                  <l>And to the Maximes of good life conduct.</l>
+                  <l>
+                     <hi>Cneius</hi> and <hi>Publius Scipio,</hi> and (that man</l>
+                  <l>Of men) your Grandsire the great Affrican,</l>
+                  <l>VVere joyful, when the flower of Noble blood</l>
+                  <l>Crowded their Dwellings, and attending stood,</l>
+                  <l>Like Oracles their Counsels to receive,</l>
+                  <l>How in their Progress they should act, and live.</l>
+                  <pb n="20" facs="tcp:199448:14"/>
+                  <l>And they whose high examples youth obeys,</l>
+                  <l>Are not despised, though their strength decays.</l>
+                  <l>And those decayes (to speak the naked truth,</l>
+                  <l>Though the defects of Age) were Crimes of Youth.</l>
+                  <l>Intemperate Youth (by sad experience found)</l>
+                  <l>Ends in an Age imperfect, and unsound.</l>
+                  <l>
+                     <hi>Cyrus,</hi> though ag'd (if <hi>Xenophon</hi> say true)</l>
+                  <l>
+                     <hi>Lucius Metellus</hi> (whom when young I knew)</l>
+                  <l>VVho held (after his Second Consulate)</l>
+                  <l>Twenty two years the high Pontificate;</l>
+                  <l>Neither of those in body, or in mind</l>
+                  <l>Before their death the least decay did find.</l>
+                  <l>I speak not of my self, though none deny</l>
+                  <l>To age (to praise their youth) the liberty:</l>
+                  <l>Such an unwasted strength I cannot boast,</l>
+                  <l>Yet now my years are eighty four almost:</l>
+                  <l>And though from what it was my strength is far,</l>
+                  <l>Both in the first and second <hi>Punick</hi> war,</l>
+                  <pb n="21" facs="tcp:199448:14"/>
+                  <l>Nor at <hi>Thermopylae,</hi> under <hi>Glabrio,</hi>
+                  </l>
+                  <l>Nor when I Consul into <hi>Spain</hi> did go;</l>
+                  <l>But yet I feel no weakness, nor hath length</l>
+                  <l>Or Winters quite enervated my strength;</l>
+                  <l>And I, my Guest, my Client, or my friend,</l>
+                  <l>Still in the Courts of Justice can defend:</l>
+                  <l>Neither must I that Proverb's truth allow,</l>
+                  <l>Who would be Antient, must be early so.</l>
+                  <l>I would be youthful still, and find no need</l>
+                  <l>To appear old, till I was so indeed.</l>
+                  <l>And yet you see my hours not idle are,</l>
+                  <l>Though with your strength I cannot mine compare.</l>
+                  <l>Yet this Centurion's doth yours surmount,</l>
+                  <l>Not therefore him the better man I count.</l>
+                  <l>
+                     <hi>Milo</hi> when entring the Olympick Game,</l>
+                  <l>With a huge Oxe upon his shoulder came.</l>
+                  <l>Would you the force of <hi>Milo</hi>'s body find?</l>
+                  <l>Rather than of <hi>Pythagoras</hi>'s mind?</l>
+                  <pb n="22" facs="tcp:199448:15"/>
+                  <l>The force which Nature gives with care retain,</l>
+                  <l>But when decay'd, 'tis folly to complain;</l>
+                  <l>In age to wish for youth is full as vain,</l>
+                  <l>As for a youth to turn a child again.</l>
+                  <l>Simple, and certain Nature's wayes appear,</l>
+                  <l>As she sets forth the seasons of the year.</l>
+                  <l>So in all parts of life we find her truth,</l>
+                  <l>Weakness to childhood, rashness to our youth:</l>
+                  <l>To elder years to be discreet and grave,</l>
+                  <l>Then to old age maturity she gave.</l>
+                  <l>
+                     <hi>(Scipio)</hi> you know, how <hi>Masinissa</hi> bears</l>
+                  <l>His Kingly Port, at more than ninety years;</l>
+                  <l>When marching with his foot, he walks till night;</l>
+                  <l>When with his horse, he never will alight;</l>
+                  <l>Though cold, or wet, his head is alwayes bare;</l>
+                  <l>So hot, so dry, his aged members are.</l>
+                  <l>You see how Exercise and Temperance</l>
+                  <l>Even to old years a youthful strength advance.</l>
+                  <pb n="23" facs="tcp:199448:15"/>
+                  <l>Our Law (because from age our strength retires)</l>
+                  <l>No duty which belongs to strength requires.</l>
+                  <l>But age doth many men so feeble make,</l>
+                  <l>That they no great design can undertake;</l>
+                  <l>Yet, that to age not singly is appli'd,</l>
+                  <l>But to all man's infirmities beside.</l>
+                  <l>That <hi>Scipio</hi> (who adopted you) did fall</l>
+                  <l>Into such pains, he had no health at all;</l>
+                  <l>Who else had equall'd <hi>Affricanus</hi> parts,</l>
+                  <l>Exceeding him in all the Liberal Arts.</l>
+                  <l>Why should those errors then imputed be</l>
+                  <l>To Age alone, from which our youth's not free?</l>
+                  <l>Ev'ry disease of age we may prevent,</l>
+                  <l>Like those of youth, by being diligent.</l>
+                  <l>When sick, such moderate exercise we use,</l>
+                  <l>And diet, as our vital heat renues;</l>
+                  <l>And if our bodies thence refreshment finds,</l>
+                  <l>Then must we also exercise our minds.</l>
+                  <pb n="24" facs="tcp:199448:16"/>
+                  <l>If with continual Oyl we not supply</l>
+                  <l>Our Lamp, the Light for want of it will die:</l>
+                  <l>Though bodies may be tir'd with exercise,</l>
+                  <l>No weariness the mind could e're surprise.</l>
+                  <l>
+                     <hi>Caecilius</hi> the Comedian, when of Age,</l>
+                  <l>He represents the follies on the Stage;</l>
+                  <l>They're credulous, forgetful, dissolute,</l>
+                  <l>Neither those Crimes to age he doth impute;</l>
+                  <l>But to old men to whom those Crimes belong.</l>
+                  <l>Lust, petulance, rashness, are in youth more strong</l>
+                  <l>Than age, and yet young men those vices hate,</l>
+                  <l>Who vertuous are, discreet, and temperate:</l>
+                  <l>And so what we call dotage, seldome breeds</l>
+                  <l>In bodies, but where Nature sow'd the seeds.</l>
+                  <l>There are five Daughters and four gallant Sons,</l>
+                  <l>In whom the blood of Noble <hi>Appius</hi> runs,</l>
+                  <l>With a most num'rous Family beside;</l>
+                  <l>Whom he alone though old, and blind did guide.</l>
+                  <pb n="25" facs="tcp:199448:16"/>
+                  <l>Yet his clear-fighted mind was still intent,</l>
+                  <l>And to his business like a Bow stood bent:</l>
+                  <l>By Children, Servants, Neighbours so esteem'd,</l>
+                  <l>He not a Master, but a Monarch seem'd.</l>
+                  <l>All his Relations his admirers were,</l>
+                  <l>His Sons paid reverence, and his Servants fear:</l>
+                  <l>The Order and the antient Discipline</l>
+                  <l>Of Romans, did in all his actions shine.</l>
+                  <l>Authority (kept up) old age secures,</l>
+                  <l>Whose dignity, as long as life endures.</l>
+                  <l>Something of youth I in old age approve,</l>
+                  <l>But more the marks of age in youth I love.</l>
+                  <l>Who this observes, may in his body find</l>
+                  <l>Decrepit age, but never in his mind.</l>
+                  <l>The seven Volumes of my own Reports,</l>
+                  <l>Wherein are all the Pleadings of our Courts.</l>
+                  <l>All noble Monuments of <hi>Greece</hi> are come</l>
+                  <l>Unto my hands, with those of ancient <hi>Rome.</hi>
+                  </l>
+                  <pb n="26" facs="tcp:199448:17"/>
+                  <l>The Pontificial, and the Civil Law,</l>
+                  <l>I study still, and thence Orations draw.</l>
+                  <l>And to confirm my Memory, at night,</l>
+                  <l>What I hear, see, do, by day, I still recite.</l>
+                  <l>These exercises for my thoughts I find,</l>
+                  <l>These labours are the Chariot of my mind.</l>
+                  <l>To serve my friends, the Senate I frequent,</l>
+                  <l>And there what I before digested, vent.</l>
+                  <l>VVhich only from my strength of mind proceeds,</l>
+                  <l>Not any outward force of body needs:</l>
+                  <l>VVhich, if I could not do, I should delight</l>
+                  <l>On what I would to ruminate at night.</l>
+                  <l>VVho in such practices their minds engage,</l>
+                  <l>Nor fear, nor think of their approaching age;</l>
+                  <l>VVhich by degrees invisibly doth creep:</l>
+                  <l>Nor do we seem to die, but fall asleep.</l>
+               </lg>
+            </div>
+            <div n="3" type="part">
+               <pb n="27" facs="tcp:199448:17"/>
+               <head>THE THIRD PART.</head>
+               <lg>
+                  <l>NOw must I draw my forces 'gainst that Host</l>
+                  <l>Of Pleasures, which i'th' Sea of age are lost.</l>
+                  <l>Oh, thou most high transcendent gift of age!</l>
+                  <l>Youth from its folly thus to disengage.</l>
+                  <l>And now receive from me that most divine</l>
+                  <l>Oration of that noble <hi>Tarentine,</hi>
+                     <note place="margin">
+                        <hi>Archytas</hi> much prai<g ref="char:EOLhyphen"/>sed by <hi>H<gap reason="illegible: blotted" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                           <g ref="char:EOLhyphen"/>vate.</hi>
+                     </note>
+                  </l>
+                  <l>VVhich at <hi>Tarentum</hi> I long since did hear;</l>
+                  <l>VVhen I attended the great <hi>Fabius</hi> there.</l>
+                  <l>Yee Gods, was it man's Nature? or his Fate?</l>
+                  <l>Betray'd him with sweet pleasures poyson'd bait?</l>
+                  <l>VVhich he, with all designs of art, or power,</l>
+                  <l>Doth with unbridled appetite devour;</l>
+                  <l>And as all poysons seek the noblest part,</l>
+                  <l>Pleasure possesses first the head and heart;</l>
+                  <pb n="28" facs="tcp:199448:18"/>
+                  <l>Intoxicating both, by them, she finds,</l>
+                  <l>And burns the Sacred Temples of our Minds.</l>
+                  <l>Furies, which Reasons divine chains had bound,</l>
+                  <l>(That being broken) all the VVorld confound.</l>
+                  <l>Lust, Murder, Treason, Avarice, and Hell</l>
+                  <l>It self broke loose; in Reason's Pallace dwell,</l>
+                  <l>Truth, Honour, Justice, Temperance, are fled,</l>
+                  <l>All her attendants into darkness led.</l>
+                  <l>But why all this discourse? when pleasure's rage</l>
+                  <l>Hath conquer'd reason, we must treat with age.</l>
+                  <l>Age undermines, and will in time surprize</l>
+                  <l>Her strongest Forts, and cut off all supplies.</l>
+                  <l>And joyn'd in league with strong necessity,</l>
+                  <l>Pleasure must flie, or else by famine die.</l>
+                  <l>
+                     <hi>Flaminius,</hi> whom a Consulship had grac'd</l>
+                  <l>(Then Censor) from the Senate I displac'd;</l>
+                  <l>VVhen he in <hi>Gaul</hi> a Consul, made a Feast,</l>
+                  <l>A beautious Curtesan did him request,</l>
+                  <pb n="29" facs="tcp:199448:18"/>
+                  <l>To see the cutting off a Prisoner's head;</l>
+                  <l>This Crime I could not leave unpunished,</l>
+                  <l>Since by a private villany he stain'd</l>
+                  <l>That Publick Honour, which at <hi>Rome</hi> he gain'd.</l>
+                  <l>Then to our age (when not to pleasures bent)</l>
+                  <l>This seems an honour, not disparagement.</l>
+                  <l>We, not all pleasures like the Stoicks hate;</l>
+                  <l>But love and seek those which are moderate.</l>
+                  <l>(Though Divine <hi>Plato</hi> thus of pleasures thought,</l>
+                  <l>They us, with hooks and baits, like fishes caught.)</l>
+                  <l>VVhen Quaestor, to the Gods, in Publick Halls</l>
+                  <l>I was the first, who set up Festivalls.</l>
+                  <l>Not with high tastes our appetites did force,</l>
+                  <l>But fill'd with conversation and discourse;</l>
+                  <l>VVhich Feasts, <hi>Convivial Meetings</hi> we did name.</l>
+                  <l>Not like the Antient Greeks, who to their shame,</l>
+                  <l>Call'd it a <hi>Compotation,</hi> not a Feast;</l>
+                  <l>Declaring the worst part of it the best.</l>
+                  <pb n="30" facs="tcp:199448:19"/>
+                  <l>Those Entertainments I did then frequent</l>
+                  <l>Sometimes with youthful heat and merriment:</l>
+                  <l>But now (I thank my age) which gives me ease</l>
+                  <l>From those excesses, yet my self I please</l>
+                  <l>VVith cheerful talk to entertain my guests,</l>
+                  <l>(Discourses are to age continual feasts)</l>
+                  <l>The love of meat and wine they recompence,</l>
+                  <l>And cheer the mind, as much as those the Sence.</l>
+                  <l>I'm not more pleas'd with gravity among</l>
+                  <l>The ag'd, than to be youthful with the young;</l>
+                  <l>Nor 'gainst all pleasures proclaim open war,</l>
+                  <l>To which, in age, some natural motions are.</l>
+                  <l>And still at my <hi>Sabinum</hi> I delight</l>
+                  <l>To treat my Neighbours till the depth of night.</l>
+                  <l>* But we the sence and gust of pleasure want,</l>
+                  <l>VVhich youth at full possesses, this I grant;</l>
+                  <l>But age seeks not the things which youth requires,</l>
+                  <l>And no man needs that, which he not desires.</l>
+                  <pb n="31" facs="tcp:199448:19"/>
+                  <l>When <hi>Sophocles</hi> was ask'd if he deny'd</l>
+                  <l>Himself the use of pleasures, he reply'd,</l>
+                  <l>I humbly thank th' Immortal Gods, who me</l>
+                  <l>From that fierce Tyrants insolence set free.</l>
+                  <l>But they whom pressing appetites constrain,</l>
+                  <l>Grieve when they cannot their desires obtain.</l>
+                  <l>Young men the use of pleasure understand,</l>
+                  <l>As of an object new, and neer at hand:</l>
+                  <l>Though this stands more remote from age's fight,</l>
+                  <l>Yet they behold it not without delight:</l>
+                  <l>As ancient souldiers from their duties eas'd,</l>
+                  <l>VVith sense of Honour and Rewards are pleas'd.</l>
+                  <l>So from ambitious hopes, and lusts releast,</l>
+                  <l>Delighted with it self, our age doth rest.</l>
+                  <l>No part of life's more happy, when with bread</l>
+                  <l>Of ancient Knowledge, and new Learning fed;</l>
+                  <l>All youthful pleasures by degrees must cease,</l>
+                  <l>But those of age even with our years increase.</l>
+                  <pb n="32" facs="tcp:199448:20"/>
+                  <l>VVe love not loaded Boards, and Goblets crown'd,</l>
+                  <l>But free from surfets, our repose is sound.</l>
+                  <l>VVhen old <hi>Fabritius</hi> to the Samnites went</l>
+                  <l>Ambassadour from <hi>Rome</hi> to <hi>Pyrrhus</hi> sent,</l>
+                  <l>He heard a grave Philosopher maintain,</l>
+                  <l>That all the actions of our life were vain;</l>
+                  <l>VVhich with our sence of pleasure not conspir'd.</l>
+                  <l>
+                     <hi>Fabritius</hi> the Philosopher desir'd,</l>
+                  <l>That he to <hi>Pyrrhus</hi> would that Maxime teach,</l>
+                  <l>And to the Satanites the same doctrine preach;</l>
+                  <l>Then of their Conquest he should doubt no more,</l>
+                  <l>VVhom their own pleasures overcame before.</l>
+                  <l>Now into Rustick matters I must fall,</l>
+                  <l>VVhich pleasure seems to me the chief of all.</l>
+                  <l>Age no impediment to those can give,</l>
+                  <l>VVho wisely by the Rules of Nature live.</l>
+                  <l>Earth (though our Mother) cheerfully obeys,</l>
+                  <l>All the commands her race upon her lays.</l>
+                  <pb n="33" facs="tcp:199448:20"/>
+                  <l>For whatsoever from our hand she takes,</l>
+                  <l>Greater, or less, a vast return she makes,</l>
+                  <l>Nor am I only pleas'd with that resource,</l>
+                  <l>But with her wayes, her method, and her force,</l>
+                  <l>The seed her bosom (by the plough made fit)</l>
+                  <l>Receives, where kindly she embraces it,</l>
+                  <l>Which with her genuine warmth, diffus'd, and spread</l>
+                  <l>Sends forth betimes a green, and tender head,</l>
+                  <l>Then gives it motion, life, and nourishment,</l>
+                  <l>Which from the root through nerves and veins are sent,</l>
+                  <l>Streight in a hollow sheath upright it grows,</l>
+                  <l>And, form receiving, doth it self disclose,</l>
+                  <l>Drawn up in rancks, and files, the bearded spikes</l>
+                  <l>Guard it from birds as with a stand of pikes.</l>
+                  <l>When of the Vine I speak, I seem inspir'd,</l>
+                  <l>And with delight, as with her juice am fir'd;</l>
+                  <l>At Nature's God-like power I stand amaz'd,</l>
+                  <l>Which such vast bodies hath from Attoms rais'd.</l>
+                  <pb n="34" facs="tcp:199448:21"/>
+                  <l>The kernel of a grape, the figs's small grain</l>
+                  <l>Can cloath a Mountain, and o're shade a Plaine:</l>
+                  <l>But thou (dear Vine) forbid'st me to be long,</l>
+                  <l>Although thy trunck be neither large, nor strong,</l>
+                  <l>Nor can thy head (not helpt) it self sublime,</l>
+                  <l>Yet like a Serpent, a tall tree can climb,</l>
+                  <l>What'ere thy many fingers can intwine</l>
+                  <l>Proves thy support, and all it's strength is thine,</l>
+                  <l>Though Nature gave not legs, it gave thee hands,</l>
+                  <l>By which thy prop the proudest Cedar stands;</l>
+                  <l>As thou hast hands, so hath thy off-spring wings,</l>
+                  <l>And to the highest part of Mortals springs,</l>
+                  <l>But lest thou should'st consume thy wealth in vain,</l>
+                  <l>And starve thy self, to feed a numerous train,</l>
+                  <l>Or like the Bee (sweet as thy blood) design'd</l>
+                  <l>To be destroy'd to propagate his kind,</l>
+                  <l>Lest thy redundant, and superfluous juyce,</l>
+                  <l>Should fading leaves instead of fruits-produce,</l>
+                  <pb n="35" facs="tcp:199448:21"/>
+                  <l>The Pruner's hand with betting blood must quench</l>
+                  <l>Thy heat, and thy exub'rant parts retrench:</l>
+                  <l>Then from the joynts of thy prolifick stemme</l>
+                  <l>A swelling knot is raised (call'd a gemme)</l>
+                  <l>Whence, in short space it self the cluster shews,</l>
+                  <l>And from earths moisture mixt with Sun-beams grows,</l>
+                  <l>I'th' Spring, like youth, it yields an acid taste,</l>
+                  <l>But Summer doth, like age, the sourness waste,</l>
+                  <l>Then cloath'd with leaves from heat, and cold secure,</l>
+                  <l>Like Virgins, sweet, and beauteous, when mature.</l>
+                  <l>On fruits, flowrs, herbs, and plants, I long could dwell</l>
+                  <l>At once to please my eye, my taste, my smell,</l>
+                  <l>My Walks of trees, all planted by my hand</l>
+                  <l>Like Children of my own begetting stand,</l>
+                  <l>To tell the several nature of each earth,</l>
+                  <l>What fruits from each most properly take birth:</l>
+                  <l>And with what arts to inrich every mold,</l>
+                  <l>The dry to moysten and to warm the cold.</l>
+                  <pb n="36" facs="tcp:199448:22"/>
+                  <l>But when we graft, or Buds inoculate,</l>
+                  <l>Nature by Art we nobly meliorate,</l>
+                  <l>As <hi>Orpheus</hi> Musick wildest beasts did tame,</l>
+                  <l>From the sowr Crab the sweetest Apple came:</l>
+                  <l>The Mother to the Daughter goes to School,</l>
+                  <l>The species changed, doth her laws o're-rule;</l>
+                  <l>Nature her self doth from her self depart,</l>
+                  <l>(Strange transmigration) by the power of Art</l>
+                  <l>How little things, give law to great: we see</l>
+                  <l>The small Bud captivates the greatest Tree.</l>
+                  <l>Here even the Power Divine we imitate,</l>
+                  <l>And seem not to beget, out to create.</l>
+                  <l>Much was I pleas'd with fowls and beasts, the tame</l>
+                  <l>For food and profit, and the wild for game.</l>
+                  <l>Excuse me when this pleasant string I touch,</l>
+                  <l>(For age, of what delights it, speaks too much)</l>
+                  <l>Who, twice victorious <hi>Pyrrhus</hi> conquered,</l>
+                  <l>The <hi>Sabines</hi> and the <hi>Samnites</hi> captive led,</l>
+                  <pb n="37" facs="tcp:199448:22"/>
+                  <l>Great <hi>Curius,</hi> his remaining dayes did spend,</l>
+                  <l>And in this happy life his triumphs end.</l>
+                  <l>My Farm stands neer, and when I there retire,</l>
+                  <l>His, and that Age's temper I admire,</l>
+                  <l>The <hi>Samnites</hi> chiefs, as by his fire he sate,</l>
+                  <l>With a vast sum of Gold on him did wait,</l>
+                  <l>Return, said he, your Gold I nothing weigh,</l>
+                  <l>When those, who can command it, me obey:</l>
+                  <l>This my assertion proves, he may he old</l>
+                  <l>And yet not sordid, who refuses Gold.</l>
+                  <l>In Summer to sit still, or walk, I love,</l>
+                  <l>Neer a cool Fountain, or a shadie Grove,</l>
+                  <l>What can in Winter render more delight?</l>
+                  <l>Then the high Sun at noon, and fire at night,</l>
+                  <l>While our old friends, and neighbours feast, and play,</l>
+                  <l>And with their harmless mirth turn night to day,</l>
+                  <l>Unpurchas'd plenty our full tables loads,</l>
+                  <l>And part of what they lent, returns to our Gods.</l>
+                  <pb n="38" facs="tcp:199448:23"/>
+                  <l>That honour, and authority which dwells</l>
+                  <l>With age, all pleasures of our youth excells,</l>
+                  <l>Observe, that I that Age have only prais'd</l>
+                  <l>Whose pillars were on youth's foundations rais'd,</l>
+                  <l>And that (for which I great applause receiv'd)</l>
+                  <l>As a true maxime hath been since believ'd.</l>
+                  <l>That most unhappy age great pity needs,</l>
+                  <l>Which to defend it self, new matter pleads,</l>
+                  <l>Not from gray hairs authority doth flow,</l>
+                  <l>Not from bald heads, nor from a wrinckled brow,</l>
+                  <l>But our past life, when virtuously spent,</l>
+                  <l>Must to our age those happy fruits present,</l>
+                  <l>Those things to age most HOnorable are,</l>
+                  <l>Which easie, common, and but light appear,</l>
+                  <l>Salutes, consulting, complement, resort,</l>
+                  <l>Crouding attendance to, and from the Court,</l>
+                  <l>And not on <hi>Rome</hi> alone this honour waits,</l>
+                  <l>But on all Civill, and well-govern'd States.</l>
+                  <pb n="39" facs="tcp:199448:23"/>
+                  <l>
+                     <hi>Lysander</hi> pleading in his City's praise,</l>
+                  <l>From thence his strongest argument did raise,</l>
+                  <l>That <hi>Sparta</hi> did with honour Age support,</l>
+                  <l>Paying them just respect, at Stage, and Court,</l>
+                  <l>But at proud <hi>Athens</hi> Youth did Age out-face,</l>
+                  <l>Nor at the Playes, would rise, or give them place,</l>
+                  <l>When an <hi>Athenian</hi> Stranger of great age,</l>
+                  <l>Arriv'd at <hi>Sparta,</hi> climbing up the Stage,</l>
+                  <l>To him the whole Assembly rose, and ran</l>
+                  <l>To place and ease this old and reverend man,</l>
+                  <l>Who thus his thanks returns, the <hi>Athenians</hi> know</l>
+                  <l>What's to be done, but what they know, not do.</l>
+                  <l>Here our great Senat's Orders I may quote,</l>
+                  <l>The first in age is still the first in vote,</l>
+                  <l>Nor honour, nor high-birth, nor great command</l>
+                  <l>In competition with great years may stand.</l>
+                  <l>Why should our Youths short, transient pleasures, dare</l>
+                  <l>With Age's lasting honours to compare?</l>
+                  <pb n="40" facs="tcp:199448:24"/>
+                  <l>On the World's Stage, when our applause grows high,</l>
+                  <l>For acting here, life's Tragick Comedy,</l>
+                  <l>The lookers on will say we act not well,</l>
+                  <l>Unless the last the former Scenes excell:</l>
+                  <l>But Age is froward, uneasie, scrutinous,</l>
+                  <l>Hard to be pleas'd, and parcimonious;</l>
+                  <l>But all those errors from our Manners rise,</l>
+                  <l>Not from our years, yet some Morosities</l>
+                  <l>We must expect, since jealousie belongs</l>
+                  <l>To age, of scorn, and tender sense of wrongs,</l>
+                  <l>Yet those are mollify'd, or not discern'd,</l>
+                  <l>Where civil arts and manners have been learn'd,</l>
+                  <l>So the Twins humours in our <hi>Terence,</hi>
+                     <note place="margin">In his Comedy called <hi>Adelphi.</hi>
+                     </note> are</l>
+                  <l>Unlike, this harsh, and rude, that smooth and faire,</l>
+                  <l>Our nature here, is not unlike our wine,</l>
+                  <l>Some sorts, when old, continue brisk, and fine,</l>
+                  <l>So Age's gravity may seem severe,</l>
+                  <l>But nothing harsh, or bitter ought to appear,</l>
+                  <pb n="41" facs="tcp:199448:24"/>
+                  <l>Of Age's avarice I cannot see</l>
+                  <l>What colour, ground, or reason there should bee,</l>
+                  <l>Is it not folly? when the way we ride</l>
+                  <l>Is short, for a long voyage to provide.</l>
+                  <l>To Avarice some title Youth may own,</l>
+                  <l>To reap in Autumn, what the Spring had sown;</l>
+                  <l>And with the providence of Bees, or Ants,</l>
+                  <l>Prevents with Summers plenty, Winters wants,</l>
+                  <l>But Age scarce sows, till Death stands by to reap,</l>
+                  <l>And to a strangers hand transfers the heap;</l>
+                  <l>Affraid to be so once, she's alwayes poor,</l>
+                  <l>And to avoid a mischief, makes it sure</l>
+                  <l>Such madness, as for fear of death to dy,</l>
+                  <l>Is, to be poor for fear of Poverty.</l>
+               </lg>
+            </div>
+            <div n="4" type="part">
+               <pb n="42" facs="tcp:199448:25"/>
+               <head>THE FOURTH PART.</head>
+               <lg>
+                  <l>NOw against (that which terrifies our age)</l>
+                  <l>The last, and greatest grievance we engage,</l>
+                  <l>To her, grim death appears in all her shapes,</l>
+                  <l>The hungry grave for her due tribute gapes,</l>
+                  <l>Fond, foolish man! with fear of death surpriz'd</l>
+                  <l>Which either should be wisht for, or despis'd,</l>
+                  <l>This, if our Souls with Bodies, death destroy,</l>
+                  <l>That, if our Souls a second life enjoy,</l>
+                  <l>What else is to be fear'd? when we shall gain</l>
+                  <l>Eternal life, or have no sence of pain,</l>
+                  <l>The youngest in the morning are not sure,</l>
+                  <l>That till the night their life they can secure</l>
+                  <l>Their age stands more expos'd to accidents</l>
+                  <l>Then our's, nor common cure their fate prevents:</l>
+                  <pb n="43" facs="tcp:199448:25"/>
+                  <l>Death's force (with terror) against Nature strives,</l>
+                  <l>Nor one of many to ripe age arrives,</l>
+                  <l>From this ill fate the world's disorders rise,</l>
+                  <l>For if all men were old they would be wise,</l>
+                  <l>Years, and experience, our fore fathers taught,</l>
+                  <l>Them under Laws, and into Cities brought:</l>
+                  <l>Why only should the fear of death belong</l>
+                  <l>To age? which is as common to the young:</l>
+                  <l>Your hopefull Brothers, and my Son, to you</l>
+                  <l>
+                     <hi>(Scipio)</hi> and me, this maxime makes too true,</l>
+                  <l>But vigorous Youth may his gay thoughts erect</l>
+                  <l>To many years, which Age must not expect,</l>
+                  <l>But when he sees his airy hopes deceiv'd,</l>
+                  <l>With grief he saies, who this would have believ'd?</l>
+                  <l>We happier are then they, who but desir'd</l>
+                  <l>To possess that, which we long since acquir'd.</l>
+                  <l>What if our age to <hi>Nestor</hi>'s could extend?</l>
+                  <l>'Tis vain to think that lasting, which must end;</l>
+                  <pb n="44" facs="tcp:199448:26"/>
+                  <l>And when 'tis past, not any part remains</l>
+                  <l>Thereof, but the reward which virtue gains.</l>
+                  <l>Dayes, Months, and years, like running waters flow,</l>
+                  <l>Nor what is past, nor what's to come we know,</l>
+                  <l>Our date how short so e're must us content,</l>
+                  <l>When a good Actor doth his part present,</l>
+                  <l>In ev'ry Act he our attention draws,</l>
+                  <l>That at the last he may find just applause,</l>
+                  <l>So (though but short) yet we must learn the art</l>
+                  <l>Of virtue, on this Stage to act our part;</l>
+                  <l>True wisdome must our actions so direct,</l>
+                  <l>Not only the last Plaudite to expect;</l>
+                  <l>Yet grieve no more though long that part should last,</l>
+                  <l>Then Husbandmen, because the Spring is past,</l>
+                  <l>The Spring, like Youth, fresh blossoms doth produce,</l>
+                  <l>But Autumne makes them ripe, and fit for use:</l>
+                  <l>So Age a Mature Mellowness doth set</l>
+                  <l>On the green promises of youthfull heat,</l>
+                  <pb n="41" facs="tcp:199448:26"/>
+                  <l>All things which Nature did ordain, are good,</l>
+                  <l>And so must be receiv'd, and understood,</l>
+                  <l>Age, like ripe Apples, on earth's bosom drops,</l>
+                  <l>Whil'st force our youth, like fruits untimely crops;</l>
+                  <l>The sparkling flame of our warm blood expires,</l>
+                  <l>As when huge streams are pour'd on raging fires,</l>
+                  <l>But age unforc'd falls by her own consent,</l>
+                  <l>As Coals to ashes, when the Spirit's spent;</l>
+                  <l>Therefore to death I with such joy resort,</l>
+                  <l>As Seamen from a Tempest to their Port,</l>
+                  <l>Yet to that Port our selves we must not force,</l>
+                  <l>Before our Pilot Nature steers our course,</l>
+                  <l>Let us the Causes of our fear condemn,</l>
+                  <l>Then death at his approach we shall contemn,</l>
+                  <l>Though to our heat of youth our age seems cold,</l>
+                  <l>Yet when resolv'd, it is more brave and bold.</l>
+                  <l>Thus <hi>Solon</hi> to <hi>Pisistratus</hi> reply'd,</l>
+                  <l>Demanded, on what succour he rely'd,</l>
+                  <pb n="42" facs="tcp:199448:27"/>
+                  <l>VVhen with so few he boldly did ingage,</l>
+                  <l>He said, he took his courage from his Age.</l>
+                  <l>Then death seems welcome, and our Nature kind,</l>
+                  <l>VVhen leaving us a perfect sense and mind;</l>
+                  <l>She (like a VVorkman in his Science skill'd)</l>
+                  <l>Pulls down with ease, what her own hand did build.</l>
+                  <l>That Art which knew to joyn all parts in one,</l>
+                  <l>Makes the least violent separation.</l>
+                  <l>Yet though our Ligaments betimes grow weak,</l>
+                  <l>We must not force them till themselves they break.</l>
+                  <l>
+                     <hi>Pythag'ras</hi> bids us in our Station stand,</l>
+                  <l>Till God our General shall us disband.</l>
+                  <l>Wise <hi>Solon</hi> dying, wisht his friends might grieve,</l>
+                  <l>That in their memories he still might live.</l>
+                  <l>Yet wiser <hi>Ennius</hi> gave command to all</l>
+                  <l>His friends, not to bewail his funeral;</l>
+                  <l>Your tears for such a death in vain you spend,</l>
+                  <l>Which strait in immortality shall end.</l>
+                  <pb n="43" facs="tcp:199448:27"/>
+                  <l>In death if there be any sense of pain,</l>
+                  <l>But a short space, to age it will remain.</l>
+                  <l>On which without my fears, my wishes wait,</l>
+                  <l>But timorous youth on this should meditate:</l>
+                  <l>Who for light pleasure this advice rejects,</l>
+                  <l>Finds little, when his thoughts he recollects.</l>
+                  <l>Our death (though not its certain date) we know,</l>
+                  <l>Nor whether it may be this night, or no:</l>
+                  <l>How then can they contented live? who fear</l>
+                  <l>A danger certain, and none knows how near.</l>
+                  <l>They erre, who for the fear of death dispute,</l>
+                  <l>Our gallant actions this mistake confute.</l>
+                  <l>Thee <hi>(Brutus) Rome</hi>'s first Martyr I must name,</l>
+                  <l>The <hi>Curtii</hi> bravely div'd the Gulph of Flame:</l>
+                  <l>
+                     <hi>Attilius</hi> sacrific'd himself, to save</l>
+                  <l>That faith, which to his barb'rous foes he gave;</l>
+                  <l>With the two <hi>Scipio</hi>'s did thy Uncle fall,</l>
+                  <l>Rather to fly from Conquering <hi>Hannibal.</hi>
+                  </l>
+                  <pb n="44" facs="tcp:199448:28"/>
+                  <l>The great <hi>Marcellus</hi> (who restored <hi>Rome</hi>)</l>
+                  <l>His greatest foes with Honour did intomb.</l>
+                  <l>Their Lives how many of our Legions threw,</l>
+                  <l>Into the breach? whence no return they knew;</l>
+                  <l>Must then the wise, the old, the learned fear,</l>
+                  <l>What not the rude, the young, th'unlearn'd forbear?</l>
+                  <l>Satiety from all things else doth come,</l>
+                  <l>Then life must to it self grow wearisome.</l>
+                  <l>Those Trifles wherein Children take delight,</l>
+                  <l>Grow nauceous to the young man's appetite,</l>
+                  <l>And from those gaieties our youth requires,</l>
+                  <l>To exercise their minds, our age retires.</l>
+                  <l>And when the last delights of Age shall die,</l>
+                  <l>Life in it self will find satietie.</l>
+                  <l>Now you (my friends) my sense of death shall hear,</l>
+                  <l>Which I can well describe, for he stands near.</l>
+                  <l>Your Father <hi>Laelius,</hi> and yours <hi>Scipio,</hi>
+                  </l>
+                  <l>My friends, and men of honour I did know;</l>
+                  <pb n="45" facs="tcp:199448:28"/>
+                  <l>As certainly as we must die, they live</l>
+                  <l>That life which justly may that name receive.</l>
+                  <l>Till from these prisons of our flesh releas'd,</l>
+                  <l>Our souls with heavy burdens lie oppress'd;</l>
+                  <l>Which part of man from Heaven falling down,</l>
+                  <l>Earth in her low Abysse, doth hide, and drown.</l>
+                  <l>A place so dark to the Celestial light,</l>
+                  <l>And pure, eternal fires quite opposite.</l>
+                  <l>The Gods through humane bodies did disperse</l>
+                  <l>An heavenly soul, to guide this Universe;</l>
+                  <l>That man, when he of heavenly bodies saw</l>
+                  <l>The Order, might from thence a pattern draw:</l>
+                  <l>Nor this to me did my own dictates show</l>
+                  <l>But to the old Philosophers I owe.</l>
+                  <l>I heard <hi>Pythagoras,</hi> and those who came</l>
+                  <l>With him, and from our Countrey took their Name.</l>
+                  <l>Who never doubted but the beams divine</l>
+                  <l>Deriv'd from Gods, in mortal breasts did shine.</l>
+                  <pb n="46" facs="tcp:199448:29"/>
+                  <l>Nor from my knowledge did the Antients hide</l>
+                  <l>What <hi>Socrates</hi> declar'd, the hour he dy'd,</l>
+                  <l>He th'Immortality of Souls proclaim'd,</l>
+                  <l>(Whom th'Oracle of men the wisest nam'd)</l>
+                  <l>Why should we doubt of that? whereof our sence</l>
+                  <l>Finds demonstration from experience;</l>
+                  <l>Our minds are here and there, below, above;</l>
+                  <l>Nothing that's mortal can so swiftly move.</l>
+                  <l>Our thoughts to future things their flight direct,</l>
+                  <l>And in an instant all that's past collect,</l>
+                  <l>Reason, remembrance, wit, inventive art,</l>
+                  <l>No nature, but immortal, can impart.</l>
+                  <l>Man's Soul in a perpetual motion flowes,</l>
+                  <l>And to no outward cause that Motion owes;</l>
+                  <l>And therefore, that, no end can overtake,</l>
+                  <l>Because our minds cannot themselves forsake.</l>
+                  <l>And since the matter of our Soul is pure,</l>
+                  <l>And simple, which no mixture can endure</l>
+                  <pb n="47" facs="tcp:199448:29"/>
+                  <l>Of parts, which not among themselves agree;</l>
+                  <l>Therefore it never can divided be.</l>
+                  <l>And Nature shews (without Philosophy)</l>
+                  <l>VVhat cannot be divided, cannot die.</l>
+                  <l>VVe even in early infancy discern,</l>
+                  <l>Knowledge is born with babes before they learn;</l>
+                  <l>Ere they can speak, they find so many wayes</l>
+                  <l>To serve their turn, and see more Arts than dayes,</l>
+                  <l>Before their thoughts they plainly can expresse,</l>
+                  <l>The words and things they know are numberlesse;</l>
+                  <l>Which Nature only, and no Art could find,</l>
+                  <l>But what she taught before, she call'd to mind.</l>
+                  <l>This to his Sons (as <hi>Xenophon</hi> records)</l>
+                  <l>Of the great <hi>Cyrus</hi> were the dying words;</l>
+                  <l>
+                     <hi>Fear not when I depart (nor therefore mourn)</hi>
+                  </l>
+                  <l>
+                     <hi>I shall be no where, or to nothing turn:</hi>
+                  </l>
+                  <l>
+                     <hi>That Soul, which gave me life, was seen by none,</hi>
+                  </l>
+                  <l>
+                     <hi>Yet by the actions it design'd, was known;</hi>
+                  </l>
+                  <pb n="48" facs="tcp:199448:30"/>
+                  <l>
+                     <hi>And though its flight no mortal eye shall see,</hi>
+                  </l>
+                  <l>
+                     <hi>Yet know, for ever it the same shall be.</hi>
+                  </l>
+                  <l>
+                     <hi>That Soul, which can immortal glory give,</hi>
+                  </l>
+                  <l>
+                     <hi>To her own Vertues must for ever live.</hi>
+                  </l>
+                  <l>
+                     <hi>Can you believe, that man's all-knowing mind</hi>
+                  </l>
+                  <l>
+                     <hi>Can to a mortal body be confin'd?</hi>
+                  </l>
+                  <l>
+                     <hi>Though a foul, foolish prison her immure</hi>
+                  </l>
+                  <l>
+                     <hi>On earth, she (when escap'd) is wise, and pure.</hi>
+                  </l>
+                  <l>
+                     <hi>Man's body when dissolv'd is but the same</hi>
+                  </l>
+                  <l>
+                     <hi>With beasts, and must return from whence it came;</hi>
+                  </l>
+                  <l>
+                     <hi>But whence into our bodys reason flowes,</hi>
+                  </l>
+                  <l>
+                     <hi>None sees it, when it comes, or where it goes.</hi>
+                  </l>
+                  <l>
+                     <hi>Nothing resembles death so much as sleep,</hi>
+                  </l>
+                  <l>
+                     <hi>Yet then our minds themselves from slumber keep.</hi>
+                  </l>
+                  <l>
+                     <hi>When from their fleshly bondage they are free,</hi>
+                  </l>
+                  <l>
+                     <hi>Then what divine, and future things they see?</hi>
+                  </l>
+                  <l>
+                     <hi>Which makes it most apparent whence they are,</hi>
+                  </l>
+                  <l>
+                     <hi>And what they shall hereafter be declare.</hi>
+                  </l>
+                  <pb n="49" facs="tcp:199448:30"/>
+                  <l>This Noble Speech the dying <hi>Cyrus</hi> made.</l>
+                  <l>Me <hi>(Scipio)</hi> shall no argument perswade,</l>
+                  <l>Thy Grandsire, and his Brother, to whom Fame</l>
+                  <l>Gave from two conquer'd parts o'th World, their Name,</l>
+                  <l>Nor thy great Grandsire, nor thy Father <hi>Paul,</hi>
+                  </l>
+                  <l>Who fell at <hi>Cannae</hi> against <hi>Hannibal;</hi>
+                  </l>
+                  <l>Nor I (for 'tis permitted to the ag'd</l>
+                  <l>To boast their actions) had so oft ingag'd</l>
+                  <l>In Battels, and in Pleadings, had we thought,</l>
+                  <l>That only Fame our vertuous actions bought,</l>
+                  <l>'Twere better in soft pleasure and repose</l>
+                  <l>Ingloriously our peaceful eyes to close:</l>
+                  <l>Some high assurance hath possest my mind,</l>
+                  <l>After my death, an happier life to find.</l>
+                  <l>Unless our Souls from the Immortals came,</l>
+                  <l>What end have we to seek Immortal Fame?</l>
+                  <l>All vertuous spirits some such hope attends,</l>
+                  <l>Therefore the wise his dayes with pleasure ends.</l>
+                  <pb n="50" facs="tcp:199448:31"/>
+                  <l>The foolish and short-sighted die with fear,</l>
+                  <l>That they go no where, or they know not where.</l>
+                  <l>The wise and vertuous Soul with cleerer eyes</l>
+                  <l>Before she parts, some happy Port discries.</l>
+                  <l>My friends, your Fathers I shall surely see,</l>
+                  <l>Nor only those I lov'd, or who lov'd me;</l>
+                  <l>But such as before ours did end their daies:</l>
+                  <l>Of whom we hear, and read, and write their praise.</l>
+                  <l>This I believe, for were I on my way,</l>
+                  <l>None should perswade me to return, or stay:</l>
+                  <l>Should some God tell me, that I should be born,</l>
+                  <l>And cry again, his offer I should scorn;</l>
+                  <l>Asham'd when I have ended well my race,</l>
+                  <l>To be led back, to my first starting place.</l>
+                  <l>And since with life we are more griev'd than joy'd,</l>
+                  <l>We should be either satisfi'd, or cloy'd;</l>
+                  <l>Yet will not I my length of dayes deplore,</l>
+                  <l>As many wise and learn'd have done before:</l>
+                  <pb n="51" facs="tcp:199448:31"/>
+                  <l>Nor can I think such life in vain is lent,</l>
+                  <l>Which for our Countrey and our friends is spent.</l>
+                  <l>Hence from an Inne, not from my home, I pass,</l>
+                  <l>Since Nature meant us here no dwelling place.</l>
+                  <l>Happy when I from this turmoil set free,</l>
+                  <l>That peaceful and divine assembly see:</l>
+                  <l>Not only those I nam'd I there shall greet,</l>
+                  <l>But my own gallant vertuous <hi>Cato</hi> meet.</l>
+                  <l>Nor did I weep, when I to ashes turn'd</l>
+                  <l>His belov'd body, who should mine have burn'd:</l>
+                  <l>I in my thoughts beheld his Soul ascend,</l>
+                  <l>Where his fixt hopes our Interview attend:</l>
+                  <l>Then cease to wonder that I feel no grief</l>
+                  <l>From Age, which is of my delights the chief.</l>
+                  <l>My hope's, if this assurance hath deceiv'd,</l>
+                  <l>(That I Man's Soul Immortal have believ'd)</l>
+                  <l>And if I erre, no Pow'r shall dispossess</l>
+                  <l>My thoughts of that expected happiness.</l>
+                  <pb n="52" facs="tcp:199448:32"/>
+                  <l>Though some minute Philosophers pretend,</l>
+                  <l>That with our dayes our pains and pleasures end.</l>
+                  <l>If it be so, I hold the safer side,</l>
+                  <l>For none of them my Error shall deride.</l>
+                  <l>And if hereafter no rewards appear,</l>
+                  <l>Yet Vertue hath it self rewarded here.</l>
+                  <l>If those who this Opinion have despis'd,</l>
+                  <l>And their whole life to pleasure sacrific'd;</l>
+                  <l>Should feel their error, they when undeceiv'd,</l>
+                  <l>Too late will wish, that me they had believ'd.</l>
+                  <l>If Souls no Immortality obtain,</l>
+                  <l>'Tis fit our bodies should be out of pain.</l>
+                  <l>The same uneasiness, which every thing</l>
+                  <l>Gives to our Nature, life must also bring.</l>
+                  <l>Good Acts (if long) seem tedious, so is Age</l>
+                  <l>Acting too long upon this Earth her Stage.</l>
+                  <l>Thus much for Age, to which when you arrive,</l>
+                  <l>That Joy to you, which it gives me, 'twill give.</l>
+               </lg>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:199448:32"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
